@@ -17,3 +17,5 @@
 ## Beta
 - Amazon Prime Video
 
+![GUI](https://github.com/ApeDevOne/pywidevine-gui/blob/main/src/images/pywidevine_gui_screenshot.PNG)
+
