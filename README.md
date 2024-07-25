@@ -1,6 +1,6 @@
 # pywidevine-gui
 ## Graphical User Interface for pywidevine.
-- **Release Link:** The badge is hyperlinked to the release page (`https://github.com/ApeDevOne/pywidevine-gui/releases`)
+- [Link to Latest Release](https://github.com/ApeDevOne/pywidevine-gui/releases/latest)
 ## Supported Websites
 - hotstar
 - disneyplus
